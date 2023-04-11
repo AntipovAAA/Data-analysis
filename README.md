@@ -1,7 +1,7 @@
 # Data-analysis
 Data analysis training tasks
 
-All necessary libraries are loaded in the .iponb file itself
+All necessary libraries are loaded in the .ipynb file itself
 you also can
 <li>
     Install the requirements using pip 
